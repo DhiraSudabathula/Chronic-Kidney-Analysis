@@ -1,6 +1,6 @@
 <html>
   <head>
-    <h1><b><i>CHRONIC KIDNEY ANALYSIS</i></b></h1>
+    <h1><b><i>CHRONIC KIDNEY DISEASE ANALYSIS</i></b></h1>
   </head>
   <body>
     <p>A chronic kidney disease (CKD) analysis provides a comprehensive summary of patient data, key clinical metrics, and predictive insights derived from relevant datasets. The analysis highlights the influence of critical features such as creatinine, eGFR on CKD status and progression.</p>
