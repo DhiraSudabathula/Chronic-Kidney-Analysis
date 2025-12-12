@@ -22,7 +22,7 @@
     <p><b>6. Scalability and Deployment:</b><br>The workflow is scalable and can be deployed in clinical settings, enabling real-time predictions and risk stratification for CKD.</p>
     <h2><b>Model Training</b></h2>
     <p><b> Algorithm Used:</b><br>Random Forest Classifier, which is robust and effective for classification tasks.</p>
-    <p><b> Training Process:</b><br>RThe model was trained on the preprocessed and feature-selected training dataset. The Random Forest algorithm builds multiple decision trees and aggregates their predictions to improve accuracy and reduce overfitting.</p>
+    <p><b> Training Process:</b><br>The model was trained on the preprocessed and feature-selected training dataset. The Random Forest algorithm builds multiple decision trees and aggregates their predictions to improve accuracy and reduce overfitting.</p>
     <p><b> Key Parameters:</b><br> The model was initialized with parameters like n_estimators (number of trees), max_depth (maximum depth of trees), and others to optimize performance.</p>
     <img src = "https://github.com/user-attachments/assets/1c1f8a44-fe42-4b92-bec3-f1e97febee99" >
     <img src = "https://github.com/user-attachments/assets/639661ec-b1be-4677-978e-f970526760da">
